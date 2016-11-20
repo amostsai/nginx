@@ -1,4 +1,4 @@
-FROM amostsai/ubuntu_base:16.04
+FROM amostsai/ubuntu_base
 MAINTAINER Amos Tsai <amos.tsai@gmail.com>
 
 RUN \
